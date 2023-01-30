@@ -1,2 +1,2 @@
-"Hello World!"
-"Hola Mundo, git es divertido!"
+"Hello world, git is fun!"
+"Hola mundo!"
