@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Hello world, git is fun!"
 =======
 "Hello World!"
 "Hola Mundo, git es divertido!"
+>>>>>>> spanish
+=======
+"Hello world, git is fun!"
+"Hola mundo!"
 >>>>>>> spanish
